@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LTE4.git/static/css/main.a06a802d.css",
+    "main.js": "/LTE4.git/static/js/main.d51dad39.js",
+    "index.html": "/LTE4.git/index.html",
+    "main.a06a802d.css.map": "/LTE4.git/static/css/main.a06a802d.css.map",
+    "main.d51dad39.js.map": "/LTE4.git/static/js/main.d51dad39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a06a802d.css",
+    "static/js/main.d51dad39.js"
+  ]
+}
